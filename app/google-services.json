@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "347342465421",
+    "firebase_url": "https://exam-project-b9e99-default-rtdb.firebaseio.com",
+    "project_id": "exam-project-b9e99",
+    "storage_bucket": "exam-project-b9e99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347342465421:android:e2949e42346ce3683875c4",
+        "android_client_info": {
+          "package_name": "com.bob.onlineexams"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbK1_00FFyyIe_Dx-ZrrRgnsFJ-FnaBeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347342465421:android:930e6842c2359eee3875c4",
+        "android_client_info": {
+          "package_name": "com.examapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbK1_00FFyyIe_Dx-ZrrRgnsFJ-FnaBeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
